@@ -1,16 +1,75 @@
-## Hi there 👋
+# 👋 Ghertil Abdelmalek  
+### Software Engineer & DevSecOps
 
-<!--
-**malik111110/malik111110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build secure, scalable, and high-performance applications by combining **backend engineering**, **DevOps practices**, and **security by design**.  
+My background blends software development, infrastructure automation, database management, and cybersecurity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+✅ **Web & Mobile Application Development**  
+• React • React Native
+• REST & GraphQL APIs
+
+✅ **Backend & API Engineering**  
+• Python • Go • Rust • Node.js • Java (Spring Boot) • C# • C/C++  
+• Secure authentication (JWT, OAuth2)
+
+✅ **Database Architecture & Management**  
+• PostgreSQL • MySQL • MongoDB • Redis • Supabase  
+• Modeling • Optimization • Backup • Access control
+
+✅ **DevOps & DevSecOps**  
+• Docker • Kubernetes  
+• GitHub Actions • GitLab CI • Jenkins  
+• Terraform • Ansible  
+• Monitoring (Grafana, Prometheus, ELK)  
+• Integrated security (Trivy, Snyk, SonarQube)
+
+✅ **Automation & Scripting**  
+• Python • Rust • Bash  
+• Internal tools, bots, scrapers, automated jobs
+
+✅ **Security & Architecture**  
+• OWASP • Light pentesting  
+• System & cloud hardening  
+• Secure CI/CD pipelines
+
+---
+
+## 🛠️ Core Technologies
+
+**Languages:** Python, Go, Rust, Java, C#, C/C++, JavaScript/TypeScript  
+**Frontend:** Flutter, React, React Native, Angular  
+**Backend:** Node.js, Spring Boot, .NET, Gin, FastApi
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Supabase  
+**DevOps:** Docker, Kubernetes, Ansible, Terraform  
+**CI/CD:** GitHub Actions, GitLab CI, Jenkins  
+**Security:** Trivy, Snyk, SonarQube, OWASP
+
+---
+
+## 📌 Upcoming Public Projects
+
+✔️ Automation tools (Python / Rust)  
+✔️ Secure APIs & microservices  
+✔️ DevSecOps pipelines  
+✔️ Dashboards & business apps  
+✔️ Security scripts & cloud integration
+
+---
+
+## 📫 Contact
+
+📧 Email: **ghertilabdelmalek@outlook.fr**  
+🔗 LinkedIn: **www.linkedin.com/in/abdelmalek-ghertil-9a8207213**
+
+---
+
+## 🧭 Mission
+
+Design, secure, and deploy scalable solutions for startups, tech companies, and high-demand environments — always combining **innovation, automation, and applied cybersecurity**.
+
+---
+
