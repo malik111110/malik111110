@@ -1,5 +1,5 @@
 # 👋 Ghertil Abdelmalek  
-### Software Engineer & DevSecOps
+### Full-Stack Engineer & Cybersecurity Specialist
 
 I build secure, scalable, and high-performance applications by combining **backend engineering**, **DevOps practices**, and **security by design**.  
 My background blends software development, infrastructure automation, database management, and cybersecurity.
