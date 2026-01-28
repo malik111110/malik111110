@@ -20,6 +20,14 @@ I am a **Full-Stack Engineer with over 6 years of experience** in building scala
 
 ## 🌟 Key Projects
 
+
+### 🧠 [Auto Scan LLM: Context-Aware Vulnerability Scanning](https://github.com/malik111110/Auto-Scan-LLM)
+An AI-powered security auditor that combines **Nmap** precision with **Llama-3.1** analytical depth.
+* **Enterprise Intelligence:** Integrated **Qdrant Vector DB** to provide infrastructure-specific context (compliance, criticality, business impact).
+* **Risk Quantification:** Automatically calculates potential financial loss and downtime for detected vulnerabilities.
+* **Modern UI:** Built an interactive **TUI (Terminal User Interface)** with Textual for real-time scan monitoring.
+* **Compliance Ready:** Native alerts for PCI-DSS, GDPR, and ISO 27001 scopes.
+
 ### 🔐 [RSA vs ECC: Cryptographic Analysis](https://github.com/malik111110/ECC-ElGammal-vs-RSA-.git)
 An interactive implementation of fundamental public-key protocols.
 * **Hybrid Architecture:** Core logic in **ANSI C** compiled to **WebAssembly** for near-native browser performance.
