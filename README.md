@@ -50,12 +50,6 @@ AI-driven EdTech solution to optimize student retention.
 
 ---
 
-## 📊 GitHub Ecosystem
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malik111110&show_icons=true&theme=tokyonight&hide_border=true" alt="Abdelmalek's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik111110&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
